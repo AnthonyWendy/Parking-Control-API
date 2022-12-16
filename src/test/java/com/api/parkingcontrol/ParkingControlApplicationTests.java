@@ -11,4 +11,3 @@ class ParkingControlApplicationTests {
 	}
 
 }
-s
