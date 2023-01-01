@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
 import java.util.UUID;
 
 @Entity
-@Table(name = "TB_PARKING_SPOT") //Inserir nome da tabela
+@Table(name = "vagas")
 public class ParkingSpotModel implements Serializable {
     private static final long serialVersionUID = 1L;
 
